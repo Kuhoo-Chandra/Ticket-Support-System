@@ -1,0 +1,78 @@
+/* ticket.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to bottom, #d9ecff, #135c85);
+  }
+  
+  .support-form {
+    width: 400px;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="file"] {
+    width: calc(100% - 20px);
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  textarea{
+    width: calc(100% - 20px);
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  small {
+    display: block;
+    margin-top: 5px;
+    font-size: 12px;
+    color: #fefefe;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #1d641f;
+    margin-top: 20px;
+  }
