@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ticket-Support-System-frontend/static/css/main.f96f07a4.css",
+    "main.js": "/Ticket-Support-System-frontend/static/js/main.7cc39f75.js",
+    "static/js/787.742faa05.chunk.js": "/Ticket-Support-System-frontend/static/js/787.742faa05.chunk.js",
+    "static/media/books2.jpg": "/Ticket-Support-System-frontend/static/media/books2.63f880cb02e0b84b327f.jpg",
+    "static/media/books3.jpg": "/Ticket-Support-System-frontend/static/media/books3.c73bf19def8b7a4e6417.jpg",
+    "static/media/circleofsilence.jpg": "/Ticket-Support-System-frontend/static/media/circleofsilence.fc786857764a48e8f541.jpg",
+    "static/media/bunchofoldletters.jpg": "/Ticket-Support-System-frontend/static/media/bunchofoldletters.4fb1f9260e215b097ebf.jpg",
+    "static/media/logo.png": "/Ticket-Support-System-frontend/static/media/logo.7806df8209c57e4a64e7.png",
+    "static/media/clearlightofday.jpg": "/Ticket-Support-System-frontend/static/media/clearlightofday.ebc8fcdb58e813b38eaa.jpg",
+    "index.html": "/Ticket-Support-System-frontend/index.html",
+    "main.f96f07a4.css.map": "/Ticket-Support-System-frontend/static/css/main.f96f07a4.css.map",
+    "main.7cc39f75.js.map": "/Ticket-Support-System-frontend/static/js/main.7cc39f75.js.map",
+    "787.742faa05.chunk.js.map": "/Ticket-Support-System-frontend/static/js/787.742faa05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.7cc39f75.js"
+  ]
+}
